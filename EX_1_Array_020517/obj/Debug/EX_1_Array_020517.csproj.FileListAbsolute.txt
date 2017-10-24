@@ -1,0 +1,6 @@
+D:\Gusto\HND\DSA\Programs\EX_1_Array_020517\EX_1_Array_020517\bin\Debug\EX_1_Array_020517.exe.config
+D:\Gusto\HND\DSA\Programs\EX_1_Array_020517\EX_1_Array_020517\bin\Debug\EX_1_Array_020517.exe
+D:\Gusto\HND\DSA\Programs\EX_1_Array_020517\EX_1_Array_020517\bin\Debug\EX_1_Array_020517.pdb
+D:\Gusto\HND\DSA\Programs\EX_1_Array_020517\EX_1_Array_020517\obj\Debug\EX_1_Array_020517.csprojResolveAssemblyReference.cache
+D:\Gusto\HND\DSA\Programs\EX_1_Array_020517\EX_1_Array_020517\obj\Debug\EX_1_Array_020517.exe
+D:\Gusto\HND\DSA\Programs\EX_1_Array_020517\EX_1_Array_020517\obj\Debug\EX_1_Array_020517.pdb
